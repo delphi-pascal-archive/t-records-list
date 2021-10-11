@@ -1,0 +1,27 @@
+BIENVENUE019/04/20080BONJOUR A TOUSINTRODUCTION019/04/20080Cette démo utilise 5 champs:
+
+F_TITRE
+F_CODE (valeur numérique obligée)
+F_DATE (date correcte obligée)
+F_BOOL
+F_COMMENT (ce mémo)
+
+La liste est triée au départ sur TITRE + CODE.MODE D'EMPLOI119/04/20080Pour ajouter un enregistrement:
+
+Assignez les valeurs des champs (3 edits + memo + checkbox.
+Puis cliquez sur "Add".MODE D'EMPLOI219/04/20080Pour modifier un enregistrement :
+
+Sélectionnez l'enregistrement dans le grid.
+Corrigez les valeurs des champs.
+Puis cliquez sur "Edit".MODE D'EMPLOI319/04/20080Pour supprimer un enregistrement :
+
+Sélectionnez l'enregistrement dans le grid.
+Puis cliquez sur "Delete".MODE D'EMPLOI419/04/20080Pour modifier les clés du tri:
+
+Cliquez sur "Clés de tri".
+Ajouter dans l'ordre les champs souhaités dans le ListBox de droite.
+Cochez éventuellement : ordre décroissant.MODE D'EMPLOI519/04/20080Pour filtrer les données :
+
+Indiquez les valeurs à rechercher dans un ou plusieurs des 3 Edits ci-dessous.
+Cochez le checkbox devant les Edits devant faire partie de la recherche.
+Cochez les options souhaitées. Si tout est décoché, la recherche se fera sur clé exacte.
